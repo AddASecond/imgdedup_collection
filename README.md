@@ -3,7 +3,7 @@ A collection of image deduplication repositories
 
 <table>  
     <tr>
-        <td>library</td>
+        <td>repository</td>
         <td>language</td>
         <td>dependencies</td>
         <td>comments</td>
