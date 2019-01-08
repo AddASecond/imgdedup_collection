@@ -1,7 +1,6 @@
 # imgdedup_Repositories_Collection
 A collection of image deduplication repositories
 
-## 1.Repositories that #have# training process or at least illustration
 <table>  
     <tr>
         <td>library</td>
