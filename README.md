@@ -1,5 +1,7 @@
 # imgdedup_Repositories_Collection
 A collection of image deduplication repositories
+
+
 listdedup.py is to use with repo https://github.com/knjcode/imgdupes to move image files to folders 
 
 <table>  
