@@ -22,5 +22,5 @@ if __name__ == '__main__':
             else:
                 cluster_num = cluster_num + 1
                 if os.access("_duplicates/" + str(cluster_num), os.F_OK) == False:
-                    os.mkdir("_duplicates/"+ str(cluster_num))
+                    os.mkdir("_duplicates/"+ str(cluster_num)) 
         
